@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "743137596045",
+    "project_id": "air-talks",
+    "storage_bucket": "air-talks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743137596045:android:3c121ccc3148dd41e088c4",
+        "android_client_info": {
+          "package_name": "com.example.air_talks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743137596045-6m5oh541ebpqpdcklqfln2n1l4qv8suh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.air_talks",
+            "certificate_hash": "c5119e99f6f959a08f3f04d855abca99893aca24"
+          }
+        },
+        {
+          "client_id": "743137596045-fd6n0kpundql18ltmjucqgv3qvevmpl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD1EjJqDwynmA42UHftp_m5XRSIJcKwpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743137596045-fd6n0kpundql18ltmjucqgv3qvevmpl3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743137596045-fr07bu8unuucq4c1bcmvqp8mdmt8263c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.airTalks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
